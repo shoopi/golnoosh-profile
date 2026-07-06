@@ -1,0 +1,7 @@
+Options -Indexes
+
+RedirectMatch 403 ^/CV(/|$)
+
+<FilesMatch "\.(docx|pdf)$">
+  Require all denied
+</FilesMatch>

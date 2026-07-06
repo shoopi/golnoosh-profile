@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /CV/
+
+Sitemap: https://golnoosh.nooshline.nl/sitemap.xml
