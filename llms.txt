@@ -2,21 +2,20 @@
 
 Official website: https://golnoosh.nooshline.nl/
 
-Golnoosh Sabahifard is a smart mobility project coordinator based in Eindhoven, the Netherlands.
-Her profile is based on CV material across smart mobility, transport planning, digital twin-style
-system dynamics modelling, sustainability and ESG support, stakeholder alignment, reporting,
-technical documentation, customer-facing operations and sales support.
+Golnoosh Sabahifard is a multidisciplinary project coordinator and junior PM based in Eindhoven, the Netherlands.
+Her profile is based on CV material across project coordination, sustainability and ESG support,
+smart mobility, transport planning, urban research, system dynamics modelling, GIS, stakeholder
+alignment, reporting, technical documentation, customer-facing operations and sales support.
 
 Core positioning:
-- Smart mobility project coordination
-- Digital twin-style modelling and Vensim system dynamics
-- Skills snapshot: soft skills, technical skills and project skills
-- Featured project section: digital twin thinking for smart mobility and healthy cities
-- Fast-scan homepage lanes: Smart mobility; Digital twin and modelling; Coordination and projects; Sustainability and ESG; Customer and sales support; Creative commerce
+- Multidisciplinary project coordination and junior PM support
+- Skills snapshot: project coordination, data/tools, people/operations
+- CV-backed proof section showing why multidisciplinary range is useful
+- Fast-scan homepage lanes: Coordination and junior PM; Sustainability and ESG; Smart mobility and transport; Urban research and modelling; Customer and sales support; Creative commerce
 - Stakeholder communication and follow-up
 - Sustainability, ESG support and reporting
 - Sustainable urban mobility and transport planning
-- GIS, accessibility and urban-health context
+- GIS, Vensim, accessibility and urban-health context
 - Documentation, reporting and structured handovers
 - Customer, sales support and operational process discipline
 - Practical creative-commerce exposure through Nooshline and Oran-Je as supporting context

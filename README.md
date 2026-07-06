@@ -9,10 +9,11 @@ Static profile and promo site for Golnoosh.
 
 ## Current Source Notes
 
-The profile copy is synthesized from the CV files in `CV/`, with smart mobility as the leading angle and project
-management, ESG/sustainability, transport coordination, digital twin-style system dynamics, sales support, project
-planner and cover-letter variants as supporting evidence. Private address, phone and email details from the CVs are
-intentionally not published on the website. Public contact routing is limited to LinkedIn.
+The profile copy is synthesized from the CV files in `CV/`, with multidisciplinary project coordination / junior PM
+as the leading angle and ESG/sustainability, smart mobility, urban research, transport coordination, system dynamics,
+sales support, customer operations, project planner and cover-letter variants as supporting evidence. Private address,
+phone and email details from the CVs are intentionally not published on the website. Public contact routing is limited
+to LinkedIn.
 
 Nooshline and Oran-Je are referenced only as supporting context for creative-commerce and shop-operations exposure.
 They are not the subject or visual identity of this profile.
