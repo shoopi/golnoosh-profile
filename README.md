@@ -44,9 +44,7 @@ Then enable/enforce HTTPS in GitHub Pages after DNS resolves. Do not upload this
 unless the subdomain is intentionally routed through WordPress.
 
 Important privacy boundary: do not publish the `CV/` source folder as a browsable public directory. The included
-`.gitignore` excludes `CV/` from the GitHub repo. The `.htaccess` file also blocks `/CV/`, `.docx` and `.pdf` requests
-if this static site is ever uploaded to Apache/Hostinger, but the cleaner deployment is to keep the source CV documents
-out of production entirely.
+`.gitignore` excludes `CV/` from the GitHub repo, so the source CV documents stay local and out of production.
 
 ## Local Preview
 
