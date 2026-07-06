@@ -388,7 +388,7 @@ p {
 
 .signal-strip {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1px;
   margin-top: -1px;
   padding: 1px;
@@ -420,6 +420,10 @@ p {
 
 .signal-strip div:nth-child(3)::before {
   background: var(--blue);
+}
+
+.signal-strip div:nth-child(4)::before {
+  background: var(--plum);
 }
 
 .signal-strip strong {

@@ -11,12 +11,14 @@ Static profile and promo site for Golnoosh.
 
 The profile copy is synthesized from the CV files in `CV/`, with multidisciplinary project coordination and PMO
 support as the leading angle and ESG/sustainability, smart mobility, urban research, transport coordination, system
-dynamics, sales support, customer operations, project planner and cover-letter variants as supporting evidence.
+dynamics, founder-led ecommerce, sales support, customer operations, project planner and cover-letter variants as
+supporting evidence.
 Private address, phone and email details from the CVs are intentionally not published on the website. Public contact
 routing is limited to LinkedIn.
 
-Nooshline and Oran-Je are referenced only as supporting context for creative-commerce and shop-operations exposure.
-They are not the subject or visual identity of this profile.
+Nooshline and Oran-Je are referenced as founder/co-founder proof for entrepreneurship, product judgment, ecommerce
+operations and customer awareness. They support the personal profile; they are not the subject or visual identity of
+the site.
 
 ## SEO and Legal Surface
 
