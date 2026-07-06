@@ -26,7 +26,8 @@ Nooshline Instagram.
 
 ## Deployment
 
-This is a static GitHub Pages site. Pushes to `main` deploy through `.github/workflows/deploy-pages.yml`.
+This is a static GitHub Pages site. GitHub Pages is configured to publish from the `main` branch root, so pushes to
+`main` update production.
 
 The `CNAME` file sets the custom domain to:
 
