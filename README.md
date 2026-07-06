@@ -5,14 +5,16 @@ Static profile and promo site for Golnoosh.
 ## Live Site
 
 - Production domain: <https://golnoosh.nooshline.nl/>
-- Parent brand/shop: <https://nooshline.nl/>
+- Hosted as a subdomain under `nooshline.nl`, but this is a standalone personal profile.
 
 ## Current Source Notes
 
 The profile copy is synthesized from the CV files in `CV/`, including project management, ESG/sustainability,
-transport coordination, sales support and cover-letter variants. Private address, phone and email details from the
-CVs are intentionally not published on the website. Public profile links are limited to LinkedIn, Nooshline Studio and
-Nooshline Instagram.
+transport coordination, sales support, project planner and cover-letter variants. Private address, phone and email
+details from the CVs are intentionally not published on the website. Public contact routing is limited to LinkedIn.
+
+Nooshline and Oran-Je are referenced only as supporting context for creative-commerce and shop-operations exposure.
+They are not the subject or visual identity of this profile.
 
 ## SEO and Legal Surface
 
