@@ -308,6 +308,7 @@ p {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: 8px;
   border: 1px solid currentColor;
   border-radius: 999px;
   padding: 0 18px;
@@ -340,6 +341,23 @@ p {
   padding: 76px 0;
 }
 
+.icon-badge {
+  width: 34px;
+  height: 34px;
+  flex: 0 0 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink);
+  background: rgba(255, 250, 242, 0.74);
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+  font-size: 1.02rem;
+  font-weight: 400;
+  line-height: 1;
+}
+
 .signal-strip {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -359,10 +377,18 @@ p {
 }
 
 .signal-strip strong {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   color: var(--ink);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.46rem;
   font-weight: 500;
+}
+
+.signal-strip .icon-badge {
+  color: var(--ink);
+  line-height: 1;
 }
 
 .signal-strip span {
@@ -407,6 +433,9 @@ p {
 }
 
 .skills-grid h3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.5rem;
   font-weight: 500;
@@ -463,13 +492,20 @@ p {
   background: #d3904b;
 }
 
-.lane-card span {
+.lane-card .lane-number {
   display: inline-flex;
   margin-bottom: 14px;
   color: var(--muted);
   font-size: 0.75rem;
   font-weight: 860;
   letter-spacing: 0;
+}
+
+.lane-card h3,
+.fit-grid h3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .lane-card ul {
@@ -517,22 +553,38 @@ p {
 
 .method-list li {
   display: grid;
-  grid-template-columns: 132px minmax(0, 1fr);
+  grid-template-columns: 172px minmax(0, 1fr);
   gap: 20px;
   padding: 18px 0;
   border-bottom: 1px solid var(--line-light);
 }
 
 .method-list strong {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   color: var(--gold);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.32rem;
   font-weight: 500;
 }
 
+.method-list .icon-badge {
+  width: 30px;
+  height: 30px;
+  flex-basis: 30px;
+  color: var(--ink);
+  background: rgba(255, 250, 242, 0.12);
+  border-color: var(--line-light);
+}
+
 .method-list span {
   color: rgba(255, 250, 242, 0.75);
   line-height: 1.55;
+}
+
+.method-list .icon-badge {
+  line-height: 1;
 }
 
 .experience-section {

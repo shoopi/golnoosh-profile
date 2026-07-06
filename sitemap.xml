@@ -6,12 +6,12 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://golnoosh.nooshline.nl/assets/images/golnoosh-eindhoven-engine.jpg</image:loc>
-      <image:caption>Professional Eindhoven Engine portrait of Golnoosh Sabahifard</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>https://golnoosh.nooshline.nl/assets/images/golnoosh-portrait.jpg</image:loc>
       <image:caption>Full professional portrait of Golnoosh Sabahifard</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://golnoosh.nooshline.nl/assets/images/golnoosh-eindhoven-engine.jpg</image:loc>
+      <image:caption>Professional close-up portrait of Golnoosh Sabahifard</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://golnoosh.nooshline.nl/assets/images/howz-real.jpg</image:loc>
