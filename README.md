@@ -10,9 +10,9 @@ Static profile and promo site for Golnoosh.
 ## Current Source Notes
 
 The profile copy is synthesized from the CV files in `CV/`, with multidisciplinary project coordination and PMO
-support as the leading angle and ESG/sustainability, smart mobility, urban research, transport coordination, system
-dynamics, founder-led ecommerce, sales support, customer operations, project planner and cover-letter variants as
-supporting evidence.
+support as the leading angle and ESG/sustainability, supply chain planning, smart mobility, urban research, transport
+coordination, system dynamics, founder-led ecommerce, sales support, customer operations, project planner and
+cover-letter variants as supporting evidence.
 Private address, phone and email details from the CVs are intentionally not published on the website. Public contact
 routing is limited to LinkedIn.
 
