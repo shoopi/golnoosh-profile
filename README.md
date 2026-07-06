@@ -9,11 +9,11 @@ Static profile and promo site for Golnoosh.
 
 ## Current Source Notes
 
-The profile copy is synthesized from the CV files in `CV/`, with multidisciplinary project coordination / junior PM
-as the leading angle and ESG/sustainability, smart mobility, urban research, transport coordination, system dynamics,
-sales support, customer operations, project planner and cover-letter variants as supporting evidence. Private address,
-phone and email details from the CVs are intentionally not published on the website. Public contact routing is limited
-to LinkedIn.
+The profile copy is synthesized from the CV files in `CV/`, with multidisciplinary project coordination and PMO
+support as the leading angle and ESG/sustainability, smart mobility, urban research, transport coordination, system
+dynamics, sales support, customer operations, project planner and cover-letter variants as supporting evidence.
+Private address, phone and email details from the CVs are intentionally not published on the website. Public contact
+routing is limited to LinkedIn.
 
 Nooshline and Oran-Je are referenced only as supporting context for creative-commerce and shop-operations exposure.
 They are not the subject or visual identity of this profile.
@@ -25,7 +25,7 @@ They are not the subject or visual identity of this profile.
 - `robots.txt` allows crawling and points crawlers to the sitemap.
 - `privacy.html`, `terms.html` and `accessibility.html` are linked from the footer and marked `index,follow`.
 - `llms.txt` provides a compact machine-readable profile summary for AI and agent crawlers.
-- Simple Analytics is included for cookie-free, anonymous aggregate traffic statistics.
+- Simple Analytics is included with JavaScript and noscript fallbacks for cookie-free, anonymous aggregate traffic statistics.
 - Root favicon assets and `site.webmanifest` provide stable search/browser icon signals.
 
 ## Deployment
