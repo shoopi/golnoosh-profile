@@ -6,12 +6,20 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://golnoosh.nooshline.nl/assets/images/golnoosh-profile-og.jpg</image:loc>
-      <image:caption>Professional field map showing Golnoosh Sabahifard's multidisciplinary profile</image:caption>
+      <image:loc>https://golnoosh.nooshline.nl/assets/images/golnoosh-portrait.jpg</image:loc>
+      <image:caption>Portrait of Golnoosh Sabahifard</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://golnoosh.nooshline.nl/assets/images/golnoosh-professional-field.jpg</image:loc>
-      <image:caption>Generated professional profile visual for Golnoosh Sabahifard</image:caption>
+      <image:loc>https://golnoosh.nooshline.nl/assets/images/golnoosh-eindhoven-engine.jpg</image:loc>
+      <image:caption>Professional Eindhoven Engine portrait of Golnoosh Sabahifard</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://golnoosh.nooshline.nl/assets/images/howz-real.jpg</image:loc>
+      <image:caption>Nooshline supporting product-story image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://golnoosh.nooshline.nl/assets/images/blue-hour-real.jpg</image:loc>
+      <image:caption>Nooshline supporting creative-commerce image</image:caption>
     </image:image>
   </url>
   <url>
