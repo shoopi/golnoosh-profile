@@ -31,7 +31,7 @@
     <p class="updated">Last updated: July 6, 2026</p>
     <p class="notice">
       This is a privacy-first static professional profile. It has no accounts, forms, comments, checkout,
-      newsletter signup, advertising pixels or visitor profiling. It uses Simple Analytics for anonymous
+      newsletter signup, advertising pixels or visitor profiling. It uses Cloudflare Web Analytics for anonymous
       aggregate traffic statistics.
     </p>
 
@@ -75,12 +75,12 @@
     <section class="legal-card">
       <h2>Anonymous Analytics, Cookies and Tracking</h2>
       <p>
-        golnoosh.nooshline.nl uses Simple Analytics to understand aggregate website usage, such as page views,
+        golnoosh.nooshline.nl uses Cloudflare Web Analytics to understand aggregate website usage, such as page views,
         referrers, approximate location, device type and browser category. This analytics setup is intended to measure
         traffic patterns, not identify individual visitors.
       </p>
       <p>
-        Simple Analytics is used as a cookie-free aggregate analytics provider. No analytics cookie banner is shown
+        Cloudflare Web Analytics is used as a cookie-free aggregate analytics provider. No analytics cookie banner is shown
         because this site does not intentionally set analytics cookies or run advertising tracking.
       </p>
     </section>
@@ -124,7 +124,6 @@
     </div>
   </footer>
   <script src="/assets/site.js" defer></script>
-  <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-  <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"></noscript>
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "4cd0dbd8a2594858a30446fa49e0653c"}'></script>
 </body>
 </html>

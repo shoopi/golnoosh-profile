@@ -27,7 +27,7 @@ the site.
 - `robots.txt` allows crawling and points crawlers to the sitemap.
 - `privacy.html`, `terms.html` and `accessibility.html` are linked from the footer and marked `index,follow`.
 - `llms.txt` provides a compact machine-readable profile summary for AI and agent crawlers.
-- Simple Analytics is included with JavaScript and noscript fallbacks for cookie-free, anonymous aggregate traffic statistics.
+- Cloudflare Web Analytics is included for cookie-free, anonymous aggregate traffic statistics.
 - Root favicon assets and `site.webmanifest` provide stable search/browser icon signals.
 
 ## Deployment
