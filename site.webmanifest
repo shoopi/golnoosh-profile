@@ -9,12 +9,12 @@
   "theme_color": "#201816",
   "icons": [
     {
-      "src": "/favicon-192x192.png",
+      "src": "/favicon-192x192.png?v=golnoosh-face-20260711",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/favicon-512x512.png",
+      "src": "/favicon-512x512.png?v=golnoosh-face-20260711",
       "sizes": "512x512",
       "type": "image/png"
     }
