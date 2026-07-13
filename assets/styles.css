@@ -808,6 +808,10 @@ p {
   font-weight: 620;
 }
 
+.creative-actions {
+  margin-top: 24px;
+}
+
 .art-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
